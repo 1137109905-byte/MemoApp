@@ -10,3 +10,4 @@
 /app/build
 /releases
 *.apk
+*.jks
