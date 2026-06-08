@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <!-- Keep legacy color references -->
+    <color name="yellow">#FFD4A04A</color>
+    <color name="apple_blue">#FF5B7FA5</color>
+    <color name="apple_gray">#FF8B7D6B</color>
+    <color name="apple_light_gray">#FFD8C8B0</color>
+    <color name="apple_system_background">#FFE8D5B5</color>
+    <color name="apple_secondary_background">#FFFFF8EF</color>
+    <color name="apple_label">#FF3E2F23</color>
+    <color name="apple_secondary_label">#FF8B7D6B</color>
+    <color name="apple_tertiary_label">#FFB8A890</color>
+    <color name="apple_separator">#FFD0C0A8</color>
+
+    <!-- Warm Paper Theme Colors -->
+    <color name="top_bar_dark">#FF3E2F23</color>
+    <color name="top_bar_surface">#FF4A3B2E</color>
+    <color name="top_bar_icon">#FFE8D5B5</color>
+
+    <color name="paper_bg">#FFE8D5B5</color>
+    <color name="paper_bg_light">#FFF5EDE0</color>
+    <color name="paper_surface">#FFFFF8EF</color>
+    <color name="paper_line">#FFD8C8B0</color>
+    <color name="paper_text">#FF3E2F23</color>
+    <color name="paper_text_secondary">#FF8B7D6B</color>
+    <color name="paper_placeholder">#FFB8A890</color>
+
+    <color name="accent_gold">#FFD4A04A</color>
+    <color name="accent_brown">#FF8B6914</color>
+    <color name="accent_red">#FFCC4A4A</color>
+    <color name="accent_green">#FF6B8E5A</color>
+    <color name="accent_blue">#FF5B7FA5</color>
+</resources>
